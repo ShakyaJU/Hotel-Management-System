@@ -38,4 +38,5 @@ Database Layer – Uses MySQL JDBC Connector for database interaction.
   <img src="./HMS pictures/Activity Diagram.png" alt="A-Diagram" width="1500">
    </p>
 
-P.S. Feel free to check the documentation if you want to know more about this project by clicking clicking👉<a href="https://drive.google.com/file/d/1v8e1hjOh4HFUHC5OnIVz-uDM-V4875j6/view?usp=sharing"> Here </a>
+<pre>P.S. Feel free to check the documentation if you want to know more about this project by clicking clicking👉<a href="https://drive.google.com/file/d/1v8e1hjOh4HFUHC5OnIVz-uDM-V4875j6/view?usp=sharing"> Here </a></pre>
+
